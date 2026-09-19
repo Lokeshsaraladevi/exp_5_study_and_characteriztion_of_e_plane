@@ -54,7 +54,8 @@ The two main-guide arms are symmetrical with respect to the auxiliary arm. If po
 ---
 
 ## Observation
-<img width="1600" height="1364" alt="09c980f0-3815-4a36-ae8e-4127fd8ee438" src="https://github.com/user-attachments/assets/3dc13a2a-78dd-43be-af3f-fae6857b2730" />
+<img width="1600" height="1584" alt="7ae9f887-f1bc-4516-bfaa-68b07c4ef22f" src="https://github.com/user-attachments/assets/bf28ceab-fe92-47f1-8647-c95abe2daed0" />
+
 
 
 ---
@@ -71,5 +72,6 @@ The two main-guide arms are symmetrical with respect to the auxiliary arm. If po
 
 The characteristics of the E-plane tee were studied.
 
-<img width="1600" height="1489" alt="bb5d201d-07ed-4db8-a30c-2fa1e5522148" src="https://github.com/user-attachments/assets/6d900416-5710-422c-84fa-e6b96d02dff4" />
+<img width="1330" height="921" alt="faf44f2d-0914-4240-b129-171090829414" src="https://github.com/user-attachments/assets/8fdc2c0a-104b-4db9-9552-e59d9fc4f0cd" />
+
 
